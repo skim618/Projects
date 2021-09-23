@@ -51,6 +51,13 @@ This project uses a nearest-neighbour algorithm that returns four
 ordered lists of network node names, representing the paths taken by the four
 couriers. 
 
+### Source files
+The project contains three files: project_code.py, project_skim618.py and project_utils.py. 
+* project_code.py contains the functions and algorithms required to partition the routes
+* project_skim618.py contains the main function using the functions in project_code.py. 
+* project_utils.py contains useful funcitosn for reading and writing out data in .txt format. 
+
+
 ## C Project (2019)
 
 This project requires the writing of C code that will create a game based on the theme of 
